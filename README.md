@@ -13,10 +13,10 @@ I'm excited to share this interactive Sales Performance Dashboard built in Micro
 ## 📌 This dashboard enables quick insights and smarter decision-making with slicers for Sales Channel, Region, Status, Payment Mode, and more—making it highly user-friendly and adaptable.
 
 ## 🔥 Tools Used:
-✔ Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
-✔ Data Visualization Best Practices
-✔ Analytical Thinking
+- ✔ Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
+- ✔ Data Visualization Best Practices
+- ✔ Analytical Thinking
 
-- Feel free to share your feedback or suggestions — always open to learning and improving! 💡
+Feel free to share your feedback or suggestions — always open to learning and improving! 💡
 
 #ExcelDashboard #DataVisualization #SalesAnalytics #MicrosoftExcel #ExcelTips #DashboardDesign #DataAnalysis
